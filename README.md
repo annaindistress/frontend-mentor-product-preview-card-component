@@ -23,11 +23,22 @@ Users should be able to:
 
 ### Screenshot
 
+![](./screenshot.png)
+
 ### Links
+
+- [Solution URL](https://github.com/annaindistress/frontend-mentor-product-preview-card-component)
+- [Live Site URL](https://annaindistress.github.io/frontend-mentor-product-preview-card-component/)
 
 ## My process
 
 ### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Grid
+- Flexbox
+- Mobile-first workflow
 
 ## Author
 
